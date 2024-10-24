@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Looping Arrays StringBuilder/1.0.0": {
+        "runtime": {
+          "Looping Arrays StringBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Looping Arrays StringBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/bin/Debug/net8.0/Conditionals While Exceptions
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/bin/Debug/net8.0/Conditionals While Exceptions.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/bin/Debug/net8.0/Conditionals While Exceptions.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/bin/Debug/net8.0/Conditionals While Exceptions.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/bin/Debug/net8.0/Conditionals While Exceptions.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.sourcelink.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/refint/Conditionals While Exceptions.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/Conditionals While Exceptions.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Conditionals While Exceptions/obj/Debug/net8.0/ref/Conditionals While Exceptions.dll

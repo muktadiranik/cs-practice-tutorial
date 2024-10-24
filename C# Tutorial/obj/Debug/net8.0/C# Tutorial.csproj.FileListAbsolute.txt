@@ -1,0 +1,45 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/bin/Debug/net8.0/C# Tutorial
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/bin/Debug/net8.0/C# Tutorial.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/bin/Debug/net8.0/C# Tutorial.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/bin/Debug/net8.0/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/bin/Debug/net8.0/C# Tutorial.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/refint/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/ref/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial/obj/Debug/net8.0/C# Tutorial.sourcelink.json
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/bin/Debug/net8.0/C# Tutorial
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/bin/Debug/net8.0/C# Tutorial.deps.json
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/bin/Debug/net8.0/C# Tutorial.runtimeconfig.json
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/bin/Debug/net8.0/C# Tutorial.dll
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/bin/Debug/net8.0/C# Tutorial.pdb
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.AssemblyInfoInputs.cache
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.AssemblyInfo.cs
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.csproj.CoreCompileInputs.cache
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.sourcelink.json
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.dll
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/refint/C# Tutorial.dll
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.pdb
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/C# Tutorial.genruntimeconfig.cache
+/mnt/74BEEBD4BEEB8D44/Data/Tutorial/Tutorial-CS/C# Tutorial/obj/Debug/net8.0/ref/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/bin/Debug/net8.0/C# Tutorial
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/bin/Debug/net8.0/C# Tutorial.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/bin/Debug/net8.0/C# Tutorial.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/bin/Debug/net8.0/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/bin/Debug/net8.0/C# Tutorial.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.sourcelink.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/refint/C# Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/C# Tutorial.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/C# Tutorial/obj/Debug/net8.0/ref/C# Tutorial.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conditionals While Exceptions/1.0.0": {
+        "runtime": {
+          "Conditionals While Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionals While Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
