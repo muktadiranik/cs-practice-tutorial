@@ -1,0 +1,15 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/bin/Debug/net8.0/Classes & OOP
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/bin/Debug/net8.0/Classes & OOP.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/bin/Debug/net8.0/Classes & OOP.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/bin/Debug/net8.0/Classes & OOP.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/bin/Debug/net8.0/Classes & OOP.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.sourcelink.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/refint/Classes & OOP.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/Classes & OOP.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Classes & OOP/obj/Debug/net8.0/ref/Classes & OOP.dll

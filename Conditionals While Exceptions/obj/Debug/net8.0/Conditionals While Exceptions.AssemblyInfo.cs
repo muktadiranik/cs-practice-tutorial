@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conditionals While Exceptions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10fcf023953497ec877bd89f6713619fe6bec269")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baa4dc7aeec18b94df9b00d456b15ba2cd6ed444")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conditionals While Exceptions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conditionals While Exceptions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
