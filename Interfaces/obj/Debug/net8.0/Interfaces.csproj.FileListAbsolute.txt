@@ -1,0 +1,15 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/bin/Debug/net8.0/Interfaces
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
