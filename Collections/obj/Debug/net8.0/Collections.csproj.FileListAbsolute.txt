@@ -1,0 +1,15 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/bin/Debug/net8.0/Collections
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/bin/Debug/net8.0/Collections.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/bin/Debug/net8.0/Collections.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/bin/Debug/net8.0/Collections.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/bin/Debug/net8.0/Collections.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.sourcelink.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/refint/Collections.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/Collections.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/obj/Debug/net8.0/ref/Collections.dll
