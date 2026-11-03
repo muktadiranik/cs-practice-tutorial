@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nHlsbArl/oBTQCfYC/Qq8bWFEAaT3WXYsEWmwfhMNxgWmgO+7EUCh1Wj4HLVFvDztmmbdezvj2Stf4U60cdE3A==",
+  "dgSpecHash": "3l0sJPnBpmg=",
   "success": true,
-  "projectFilePath": "/mnt/F85C90A35C905DE6/Data/Tutorial C#/cs-practice-tutorial/Collections/Collections.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Data\\Tutorial C#\\cs-practice-tutorial\\Collections\\Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mukta\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\mukta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\mukta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\mukta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

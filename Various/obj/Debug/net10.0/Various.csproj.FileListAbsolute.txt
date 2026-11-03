@@ -1,0 +1,15 @@
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\bin\Debug\net10.0\Various.exe
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\bin\Debug\net10.0\Various.deps.json
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\bin\Debug\net10.0\Various.runtimeconfig.json
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\bin\Debug\net10.0\Various.dll
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\bin\Debug\net10.0\Various.pdb
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.AssemblyInfoInputs.cache
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.AssemblyInfo.cs
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.csproj.CoreCompileInputs.cache
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.sourcelink.json
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.dll
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\refint\Various.dll
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.pdb
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\Various.genruntimeconfig.cache
+D:\Data\Tutorial C#\cs-practice-tutorial\Various\obj\Debug\net10.0\ref\Various.dll
